@@ -31,3 +31,7 @@ I'm Cedric Conday — I build and break software. Open-source contributor (32+ m
 
 - Site: [condaydigital.com](https://condaydigital.com)
 - GitHub: [@CedricConday](https://github.com/CedricConday)
+
+## License
+
+The writeups and accompanying text are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material for any purpose, provided you give appropriate credit, link to the license, and indicate if changes were made.
